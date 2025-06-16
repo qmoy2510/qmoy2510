@@ -1,5 +1,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qmoy2510)](https://solved.ac/qmoy2510)
 
+[https://mazandi.herokuapp.com/...](https://mazandi.herokuapp.com/api?handle=qmoy2510&theme=warm)
+
 <!--
 **qmoy2510/qmoy2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
