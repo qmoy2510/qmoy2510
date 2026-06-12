@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 백엔드 개발자 박현빈입니다! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 꼼꼼하게 코드를 검토하고 스스로를 돌아보기 위해 노력하고 있습니다! </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 꼼꼼하게 코드를 검토하고 자기 자신도 검토하기 위해 노력하고 있습니다! </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
